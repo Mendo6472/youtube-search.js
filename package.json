@@ -1,0 +1,23 @@
+{
+  "name": "youtube-search.js",
+  "version": "0.1.0",
+  "description": "Search for videos on youtube",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": ">= 14"
+  },
+  "author": "Mendo6472",
+  "repository": "https://github.com/Mendo6472/youtube-search.js",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "cheerio": "^1.0.0-rc.12"
+  },
+  "keywords": [
+    "youtube",
+    "youtube search"  
+  ]
+}
